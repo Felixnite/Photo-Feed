@@ -1,0 +1,16 @@
+body{margin:0;}
+header{text-align:center;}
+section{background: whitesmoke; padding-top: 60px;}
+.box {background: white; width: 600px; margin: auto;
+margin-bottom: 80px; margin-top: 80px;
+border:2px solid rgb(222, 222, 222); border-radius: 8px;}
+div.header {
+    padding: 15px;
+}
+img {width: 100%;}
+div.header h2 {margin: 0; font-size: 20px; display: inline;}
+div.description {
+    padding: 15px;
+}
+div.description {padding: 15px;}
+.box .header .date{ float: right; margin: 0;}
